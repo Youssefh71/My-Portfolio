@@ -17,16 +17,5 @@ tags:
 
 > <a href="https://github.com/Youssefh71/Artisans">Dépôt git du projet</a>
 
->Mise en place de la partie back-end avec:
-   >>Symfony
-   >>MySql
-   >>EasyAdmin
-   >>reset-password-bundle
 
->La partie front a été mise en place avec:
-   >>Twig
-   >>CSS/Boostrap
-   >>knp-paginator
-   >>vich/uploader
-   >>liip/imagine
 
