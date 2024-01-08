@@ -28,5 +28,4 @@ La partie front a été mise en place avec:
    + CSS/Boostrap
    + knp-paginator
    + vich/uploader
-   + liip/imagine
-
+  
