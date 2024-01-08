@@ -3,8 +3,13 @@ title: Artisans
 publishDate: 2020-03-02 00:00:00
 img: /assets/stock-1.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
+description: |
+  
 tags:
   - PHP/SYmfony
+  - JavaScript
+  - vich/uploader
+  - Easyadmin
 ---
 
 
@@ -26,8 +31,4 @@ Projet en équipe lors de ma formation chez Web Force3.
    >>knp-paginator
    >>vich/uploader
    >>liip/imagine
-
-
-
-
 
