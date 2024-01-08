@@ -3,8 +3,6 @@ title: Artisans
 publishDate: 2020-03-02 00:00:00
 img: /assets/stock-1.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
-description: |
-  Projet en équipe du site artisan lors de ma formation chez Web Force3..
 tags:
   - PHP/SYmfony
   - JavaScript
@@ -28,4 +26,5 @@ La partie front a été mise en place avec:
    + CSS/Boostrap
    + knp-paginator
    + vich/uploader
-  
+   + liip/imagine
+
