@@ -16,6 +16,6 @@ Mise en place de la partie back-end avec:
    + Spring
    + Postgresql
    + Flyway
-   + Javax
+   + Jaxb
    + ItextPdf
 
