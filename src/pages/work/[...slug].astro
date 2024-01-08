@@ -27,7 +27,7 @@ const { entry } = Astro.props;
 const { Content } = await entry.render();
 ---
 
-<BaseLayout title={entry.data.title} description={entry.data.description}>
+<BaseLayout title={entry.data.title}>
 	<div class="stack gap-20">
 		<div class="stack gap-15">
 			<header>
@@ -38,7 +38,6 @@ const { Content } = await entry.render();
 							<div class="tags">
 								{entry.data.tags.map((t) => <Pill>{t}</Pill>)}
 							</div>
-							<p class="description">{entry.data.description}</p>
 						</div>
 					</Hero>
 				</div>
@@ -80,11 +79,7 @@ const { Content } = await entry.render();
 		gap: 0.5rem;
 	}
 
-	.description {
-		font-size: var(--text-lg);
-		max-width: 54ch;
-	}
-
+	
 	.content {
 		max-width: 65ch;
 		margin-inline: auto;
